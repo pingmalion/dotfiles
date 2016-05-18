@@ -1,0 +1,18 @@
+	
+[user]
+	email = pingmalion@pingmalion.fr
+	name = Pingmalion
+
+[alias]
+        co = checkout
+        br = branch
+        st = status
+        sh = show
+        lol = log --graph --decorate --pretty=oneline --abbrev-commit
+        lola = log --graph --decorate --pretty=oneline --abbrev-commit --all
+
+[color]
+        branch = auto
+        diff = auto
+        interactive = auto
+        status = auto
